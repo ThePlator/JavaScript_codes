@@ -11,3 +11,9 @@ just to add the files
 git add .
 git commit -m "name"
 git push -u origin master
+
+for updating git 
+git update-git-for-windows 
+
+for version check 
+git --version
