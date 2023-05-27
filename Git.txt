@@ -1,0 +1,13 @@
+For first time 
+git init
+git add README.md
+git add.
+git commit -m "name"
+git remote add origin link 
+git push -u origin master 
+
+
+just to add the files 
+git add .
+git commit -m "name"
+git push -u origin master
