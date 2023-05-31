@@ -17,3 +17,6 @@ git update-git-for-windows
 
 for version check 
 git --version
+
+for force push the git 
+git push -f origin master
