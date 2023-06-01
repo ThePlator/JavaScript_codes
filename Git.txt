@@ -1,22 +1,37 @@
 For first time 
-git init
-git add README.md
-git add.
-git commit -m "name"
-git remote add origin link 
-git push -u origin master 
+-> git init
+-> git add README.md
+-> git add.
+-> git commit -m "name"
+-> git remote add origin link 
+-> git push -u origin master 
 
 
 just to add the files 
-git add .
-git commit -m "name"
-git push -u origin master
+-> git add .
+-> git commit -m "name"
+-> git push -u origin master
 
 for updating git 
-git update-git-for-windows 
+-> git update-git-for-windows 
 
 for version check 
-git --version
+-> git --version
 
 for force push the git 
-git push -f origin master
+-> git push -f origin master
+
+
+To see the all commit history 
+-> git log
+// it will give the detail with hash code 
+
+To checkout the commit
+-> git checkout hashcode
+
+
+To get new branch 
+-> git checkout -b new-branch(name_of_the_branch)
+
+To save the file from github repo to local pc 
+-> git pull origin master
