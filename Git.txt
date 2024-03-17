@@ -18,7 +18,7 @@ for updating git
 for version check 
 -> git --version
 
-for force push the git 
+for force push the git (don't use this cmd)
 -> git push -f origin master
 
 
